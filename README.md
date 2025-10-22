@@ -5,3 +5,5 @@ Work list:
 3. CNN
 4. Optimization(Adam, AdamW, LinearLR, CosineAnnealingLR)
 5. Opimization&Regularization(Xavier, Dropout, DropConnect, LayerNorm)
+6. Detection (SSD)
+7. Metric learning (embedding)
